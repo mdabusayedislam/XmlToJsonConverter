@@ -1,0 +1,10 @@
+<customers>
+	<customer>
+		<name>abusayed</name>
+		<designation>software engineer</designation>
+	</customer>
+	<customer>
+		<name>sajib</name>
+		<designation>senior software engineer</designation>
+	</customer>
+</customers>
